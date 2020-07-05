@@ -11,19 +11,19 @@ vmoex是一个开源的二次元社区程序，同时也是一个多用户多角
 
 首页：
 
-![](web/assets/images/vmoex-screenshot.png)
+![vmoex-screenshot](https://wkretype.bdimg.com/retype/zoom/2370ddae43323968001c9220?pn=2&o=jpg_6&md5sum=f1e7d35c4f3501ec702befaf988d38bf&sign=3b949efb32&png=417-158553&jpg=48446-338155)
 
 管理后台：
 
-![](web/assets/images/vmoex-admin.png)
+![vmoex-admin](https://wkretype.bdimg.com/retype/zoom/2370ddae43323968001c9220?pn=3&o=jpg_6&md5sum=f1e7d35c4f3501ec702befaf988d38bf&sign=3b949efb32&png=158554-220863&jpg=338156-476840)
 
 移动端：
 
-![](web/assets/images/vmoex-mobile.png)
+![vmoex-mobile](https://wkretype.bdimg.com/retype/zoom/2370ddae43323968001c9220?pn=4&o=jpg_6&md5sum=f1e7d35c4f3501ec702befaf988d38bf&sign=3b949efb32&png=220864-303161&jpg=476841-628675)
 
 个人中心：
 
-![](web/assets/images/vmoex-home.png)
+![vmoex-home](https://wkretype.bdimg.com/retype/zoom/2370ddae43323968001c9220?pn=5&o=jpg_6&md5sum=f1e7d35c4f3501ec702befaf988d38bf&sign=3b949efb32&png=303162-409048&jpg=628676-774133)
 
 ## 安装
 
@@ -80,7 +80,7 @@ vmoex是一个开源的二次元社区程序，同时也是一个多用户多角
 
 ## 看板娘
 
-![](web/assets/images/vmoex-screenshot-kanbanniang.png)
+![vmoex-screenshot-kanbanniang](https://wkretype.bdimg.com/retype/zoom/2370ddae43323968001c9220?pn=6&o=jpg_6&md5sum=f1e7d35c4f3501ec702befaf988d38bf&sign=3b949efb32&png=409049-&jpg=774134-)
 
 由[维基萌](https://www.wikimoe.com/)提供(😘)。
 
